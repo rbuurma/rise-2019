@@ -16,9 +16,11 @@ The steps are simple.
 
 2.  Using Atom, BBEdit, or a similar text editor, de-duplicate your NER "Locations" data if you haven't already. (If you had trouble with generating the NER data or if you rashly discarded it, I have included both raw and a de-duplicated versions of the NER "Locations" list in our repository.) You can also further clean it, if you want to, by manually deleting errors. (This will be somewhat subjective; that's necessary and fine.)
 
-3.  Now you need to remove the "LOCATION" tags to avoid confusing My Maps. To do this, open the "find" box or similar find-and-replace function. In "find" put everything between the quotation marks here (the word LOCATION, the colon, and a space):
+3.  Now you need to remove the "LOCATION" tags to avoid confusing My Maps. To do this, open the "find" box or similar find-and-replace function. In "find" put everything  here (the word LOCATION, the colon, and a space), like so:
 
->  "LOCATION: "
+LOCATION:
+
+{Remember to include a space after the colon.)
 
 In "replace" make sure that there is nothing (not even a space).  Click "replace all." Note that you can always use the "undo" function if you do something by accident.
 
@@ -55,11 +57,13 @@ No matter what you do, be specific and precise; quote examples; show us that you
 
 ## Post
 
-Post your paragraph to Known. Make sure to tag it:  #RobinsonCrusoe #Assignment2 #GoogleMyMaps #Mapping - and another tag or two if you like.
+Post your paragraph to Wordpress. Give it a title that makes in clear what assignment it is.
 
 ## Extra (not at all required)
 
-For theoretical readings, additional critical approaches,  and tutorials using different mapping technologies see the ["Geospatial Digital Humanities"](http://lkleincourses.lmc.gatech.edu/dh12/schedule/#geo) section of Lauren Klein's Spring 2012 Digital Humanities course at Georgia Tech, Noah Huffman's [Mapping the Broadsides Collection, or, how to make an interactive map in 30 minutes or less](https://blogs.library.duke.edu/bitstreams/2014/05/16/mapping-the-broadsides-collection-or-how-to-make-an-interactive-map-in-30-minutes-or-less/) (a tutorial using Google Fusion Tables to make an interactive map), and the extensive resources in The UCLA Center for Digital Humanities Intro to Digital Humanities class's section on [GIS and Digital Mapping](http://dh101.humanities.ucla.edu/?page_id=244) authored by Elaine Sullivan.
+For theoretical readings, additional critical approaches,  and tutorials using different mapping technologies see Noah Huffman's [Mapping the Broadsides Collection, or, how to make an interactive map in 30 minutes or less](https://blogs.library.duke.edu/bitstreams/2014/05/16/mapping-the-broadsides-collection-or-how-to-make-an-interactive-map-in-30-minutes-or-less/) (a tutorial using Google Fusion Tables to make an interactive map), and the extensive resources in The UCLA Center for Digital Humanities Intro to Digital Humanities class's section on [GIS and Digital Mapping](http://dh101.humanities.ucla.edu/?page_id=244) authored by Elaine Sullivan.
+
+Shannon Mattern's [Maps as Media](http://www.wordsinspace.net/mapsmedia/fall2018/) class at the New School includes a variety of histories and theories of maps and mapmaking as some critical mapmaking tools that may be of interest. 
 
 You may also be interested in some histories of cartography, like [these volumes](http://www.press.uchicago.edu/books/HOC/index.html) from the University of Chicago press.
 
