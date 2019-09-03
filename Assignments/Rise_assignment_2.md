@@ -63,7 +63,7 @@ Post your paragraph to Wordpress. Give it a title that makes in clear what assig
 
 For theoretical readings, additional critical approaches,  and tutorials using different mapping technologies see Noah Huffman's [Mapping the Broadsides Collection, or, how to make an interactive map in 30 minutes or less](https://blogs.library.duke.edu/bitstreams/2014/05/16/mapping-the-broadsides-collection-or-how-to-make-an-interactive-map-in-30-minutes-or-less/) (a tutorial using Google Fusion Tables to make an interactive map), and the extensive resources in The UCLA Center for Digital Humanities Intro to Digital Humanities class's section on [GIS and Digital Mapping](http://dh101.humanities.ucla.edu/?page_id=244) authored by Elaine Sullivan.
 
-Shannon Mattern's [Maps as Media](http://www.wordsinspace.net/mapsmedia/fall2018/) class at the New School includes a variety of histories and theories of maps and mapmaking as some critical mapmaking tools that may be of interest. 
+Shannon Mattern's [Maps as Media](http://www.wordsinspace.net/mapsmedia/fall2018/) class at the New School includes a variety of histories and theories of maps and mapmaking as some critical mapmaking tools that may be of interest.
 
 You may also be interested in some histories of cartography, like [these volumes](http://www.press.uchicago.edu/books/HOC/index.html) from the University of Chicago press.
 
@@ -71,7 +71,6 @@ You have eyeballed a comparison between the map printed in *Robinson Crusoe* and
 
 ----------
 
-
-Note: This is a new assignment; milage will vary. We would very much like to hear of any problems you have in order to make the next iteration cleaner.
+Thanks to to Rise of the Novel TA Neel Gupta for his testing and suggestions for the 2019 update of this assignment. 
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
