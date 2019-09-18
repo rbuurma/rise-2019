@@ -22,13 +22,15 @@ The second part of of this exercise ask you to use the collection of text analys
 
 Try to set aside a few hours for this assignment. You want to give yourself permission mess around with Voyant in an open-ended, non-goal-oriented way while still making sure you find something interesting to write about. *Consider taking some screen shots along the way to illustrate your write-up.*
 
-For additional instructions, here is the [Voyant documentation](http://docs.voyant-tools.org/); it includes links to additional tools you can use in Voyant (milage may vary) and tutorials.
+For additional instructions, here is the [Voyant documentation] (https://voyant-tools.org/docs/#!/guide/start); it includes links to additional tools you can use in Voyant (milage may vary) and tutorials.
 
 #### Step 1
 
-Go to http://voyant-tools.org/ and upload the clean copy of *Pamela* you can find on Github and in our Dropbox. (Note that the plain-text copy of *Pamela* we are using is drawn from [this](http://www.gutenberg.org/cache/epub/6124/pg6124.txt) Project Gutenberg text. Take a quick look at it - what edition does it seem to be based on? We will tackle questions to do with text preparation and cleaning in a future assignment, but it's worth giving them a thought now.)
+Go to http://voyant-tools.org/ and upload the clean copy of *Pamela* you can find on Github and in our "Excercise Supplementary Materials" Dropbox folder. (Note that the plain-text copy of *Pamela* we are using is drawn from [this](http://www.gutenberg.org/cache/epub/6124/pg6124.txt) Project Gutenberg text. Take a quick look at it - what edition does it seem to be based on? We will tackle questions to do with text preparation and cleaning in a future assignment, but it's worth giving them a thought now.)
 
 When you have uploaded, press "reveal" and a new window will open. Note that if you mouse over the right-hand corner of the blue bar at the top of the page and click the arrow icon, it will give you a url that will save this state of Voyant for you to return to.
+
+If the file upload function does not work, you can copy the text and paste it into the Voyant text box.
 
 #### Step 2
 
@@ -52,6 +54,10 @@ Try selecting a word, and see its frequency over time appear in the upper-right-
 
 For example, I might use the search box in the "Document Terms" window to search for the word "know." Note that typing in "know*" should pull up "know," "knows," "known," "knowing," and "knowledge." (Click the question mark icon in the search box to see a full list of supported search syntax.) Then I try to think of a word or words I want to graph against "know" - "feel" suggests itself to me, but I find no occurrences! I set this negative finding aside to investigate later, and move on to compare some more trends.
 
+#### Step 4a
+
+Spend some time playing with another one of the Voyant tools - make sure that you understand what data the tool is drawing from the text, how it is transforming it, and therefore what conclusions or interpretations you may or may not ber able to draw from it. You will need to use the documentation to do this.
+
 #### Step 5
 
 This portion of the assignment should help us think about the relationship between *Pamela*, various eighteenth-century responses to *Pamela*, and Richardson's other work. Download this [zip file](/Assignment_materials/Pamela_corpus.zip), which includes plain text versions of *Pamela*, *Shamela*, and a number of other texts. (*Clarissa* and *Sir Charles Grandison* were Richardson's two other major novels, published after *Pamela*. *Clarissa*, which resembles *Pamela* in a number of ways, deals with a young bourgeois woman who is imprisoned by Mr. Lovelace, a notorious rake, after fleeing her family. *Grandison* is a novel about a man meant to provide an example of male virtue. *Joseph Andrews* is a novel by Henry Fielding, author of *Shamela*, which features Shamela's brother Joseph and the Booby family. Eliza Haywood's *Anti-Pamela* is a parody of *Pamela* written around the same time as *Shamela*.)
@@ -66,31 +72,23 @@ Try graphing the frequency of some individual words and combinations of words ac
 
 Some questions to consider: how linguistically similar are *Pamela* and the two *Pamela* parodies? What about *Pamela* and Richardson's later works? Does *Pamela* differ from the rest of the corpus in any particularly notable ways? What might this tell us about the relationship(s) among *Pamela* and these other works?
 
+
 #### Step 6
 
-Challenge: Think about one of the core arguments Nancy Armstrong makes in *Desire and Domestic Fiction*. Is there any way you might - provisionally and partially - use the Voyant tools to extend, press against, or create new evidence for one of these claims? Choose a specific claim or your version of a specific claim, and then think about how you might translate that claim to the level of a word or a collection of words.
-
-Alternate version: do the same thing, but thinking about the larger corpus of texts alongside Michael McKeon's argument in *Generic Transformation and Social Change* about the relationship between Richardson (or naive empiricism) and Fielding (or extreme skepticism).
+Challenge: Think about one of the core arguments Catherine Gallagher makes in *The Rise of Fictionality* or that Nancy Armstrong makes in *Desire and Domestic Fiction*. Is there any way you might - provisionally and partially - use the Voyant tools to extend, press against, or create new evidence for one of these claims? Choose a specific claim or your version of a specific claim, and then think about how you might translate that claim to the level of a word or a collection of words.
 
 ### Write
 
-Write a paragraph or two on some particularly interesting and suggestive findings from your work in steps 2-6 - the more specific the better. Positive or negative results can be good  findings. Feel free also to share any thoughts about the value and/or difficulty of this type of lightweight text analysis work. Post to Known with #Exercise3 #Voyant #TextAnalysis and any other relevant tags.
+Write a paragraph or two on some particularly interesting and suggestive findings from your work in steps 2-6 - the more specific the better. Positive or negative results can be good  findings. Feel free also to share any thoughts about the value and/or difficulty of this type of lightweight text analysis work. Post to it to Wordpress.
 
 ### More (optional and for the future)
 
-Voyant just scratches the surface of what we can do with existing text analysis tools and platforms. Two good sources for collections of text analysis platforms and recipes are Alan Liu's [DH Toychest](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools#tools-text-analysis) and [Tapor2](http://www.tapor.ca/) - both are large collections of tools for finding, processing, and visualizing texts of different kinds. You may also be interested in taking a look at [the beta version of the new Voyant](http://beta.voyant-tools.org/).
-
-The new (and experimental) [XSEDE](http://ec2-54-85-108-97.compute-1.amazonaws.com:3838/tag/) collection of tools is also interesting; the "data" tab lets you walk through the process of preparing your uploaded text for analysis in a way that teaches you a bit about text preparation. The "explore" tab lets you look at some characteristics of the words in your document, and "transform" offers quick versions of some topic modeling algorithms we will explore in more detail later in the semester.
+Voyant just scratches the surface of what we can do with existing text analysis tools and platforms. Two good sources for collections of text analysis platforms and recipes are Alan Liu's [DH Toychest](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools#tools-text-analysis) and [Tapor2](http://www.tapor.ca/) - both are large collections of tools for finding, processing, and visualizing texts of different kinds. 
 
 ### Remember
 
-This is the first iteration of this assignment; if you run into bugs or other difficulties, please let me know.
+If you run into bugs or other difficulties, please let me know.
 
 ### Acknowledgements
 
 This assignment draws from from Cyrus Mulready's [“Close and Distant Reading Assignment”](http://englishlit1.pbworks.com/w/page/64337515/Close%20and%20Distant%20Reading%20Assignment) and Paul Fyfe's ["How to Not Read a Victorian Novel"](http://diginole.lib.fsu.edu/eng_faculty_publications/2/) among others.
-
-
-----------
-
-<b id="f1">1</b> Valenza, Robin. “How Literature Becomes Knowledge: A Case Study.” ELH 76.1 (2009): 215–245. [↩](#a1)
