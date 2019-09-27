@@ -20,7 +20,7 @@ In this assignment, you will locate a digital facsimile of *Tristram Shandy*, OC
 
 #### Step 1
 
-Log in to Eighteenth-Century Collections Online (ECCO) via Tripod. Find the earliest copy of the first volume of *Tristram Shandy* that you can locate. You will notice that just searching for *Tristram Shandy* as "title" in "basic search" will return lots of hits. Choose "advanced search" and narrow things down (by date, publisher, etc) to get a smaller list of results. (You may need to do a tiny bit of research on the date and publisher of the first volumes of TS to find the appropriate search terms and to make sure you have located an early edition.)
+Log in to Eighteenth-Century Collections Online (ECCO) via [Tripod](http://find.gale.com/ecco/dispBasicSearch.do?prodId=ECCO&userGroupName=swar94187). Find the earliest copy of the first volume of *Tristram Shandy* that you can locate. You will notice that just searching for *Tristram Shandy* as "title" in "basic search" will return lots of hits. Choose "advanced search" and narrow things down (by date, publisher, etc) to get a smaller list of results. (You may need to do a tiny bit of research on the date and publisher of the first volumes of TS to find the appropriate search terms and to make sure you have located an early edition.)
 
 Extra: For a great in-depth overview of the history and contents of ECCO, see the excellent [Beyond Citation](http://www.beyondcitation.org/eighteenth-century-collections-online-ecco/) site. We will use this site more in the future when we go into greater depth with ECCO.
 
@@ -32,7 +32,7 @@ Also take a look at the "full citation" and "e-table of contents"  for more info
 
 #### Step 3
 
-We are going to convert some of these images of pages into machine-readable text. The first thing to do is choose a section of the volume - perhaps a chapter. Decide what section you want to work with, note the image numbers (as opposed to the page numbers), and then click the little brown disk icon in the upper-righthand corner of the screen. (It's meant to look like a floppy disk and to mean "save" - have you ever seen a floppy disk in person?) It will allow you to download your chosen series of pages. Once you have them, rename them something meaningful -  "ShandyV1Ch12_T168420" or something like that.  (T168420 is the English Short Title Catalog number for this work, found in the "full citation" info. You could use something else. The point is to have identifying information so that you know where your digital facsimile came from and could locate the source again in the future.)
+We are going to convert some of these images of pages into machine-readable text. The first thing to do is choose a section of the volume - perhaps a chapter or a few pages. Decide what section you want to work with, note the image numbers (as opposed to the page numbers), and then click the little brown disk icon in the corner of the screen next to the other action icons (star, print, etc). (It's meant to look like a floppy disk and to mean "save" - have you ever seen a floppy disk in person?) It will allow you to download your chosen series of pages. Once you have them, rename them something meaningful -  "ShandyV1Ch12_T168420" or something like that.  (T168420 is the English Short Title Catalog number for this work, found in the "full citation" info. You could use something else. The point is to have identifying information so that you know where your digital facsimile came from and could locate the source again in the future.)
 
 Open the resulting PDF. Does a keyword search within it work? Why not, do you think? What happened or didn't happen?
 
@@ -54,10 +54,12 @@ Write a paragraph or so about the process. What kinds of mistakes did you notice
 
 Then write a paragraph opening out into one or more of the many large questions raised by this assignment - about the difference between a single copy of a book, a digital facsimile of that book, what that digital facsimile comes to stand for or stand in for in a database like ECCO, and then what happens when we extract a text from that digital facsimile. What questions would you add? How might we begin to answer them? Stay specific - choose one or two.
 
-Post these paragraphs to Known with #Exercise4 #DigitalSurrogates #TextPreparation and any other relevant tags.
+Post these paragraphs to Wordpress.
 
 ### Remember
 
-This is the first iteration of this assignment; if you run into bugs or other difficulties, please let me know.
+If you run into bugs or other difficulties, please let me or Neel know.
 
 ### Acknowledgements
+
+Thanks to Neel Gupta for testing and proofing this assignment for 2019. 
