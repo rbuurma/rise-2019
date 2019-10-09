@@ -24,6 +24,8 @@ Log in to Eighteenth-Century Collections Online (ECCO) via [Tripod](http://find.
 
 Extra: For a great in-depth overview of the history and contents of ECCO, see the excellent [Beyond Citation](http://www.beyondcitation.org/eighteenth-century-collections-online-ecco/) site. We will use this site more in the future when we go into greater depth with ECCO.
 
+Extra:
+
 #### Step 2
 
 Take a little time with get familiar with the the first volume of *Tristram Shandy* you have located AND the ECCO interface for this volume. Page through it. Look at the paratexts. Try some keyword searches within it. Do they work? What are you searching when you search for keywords within the text? What does the results list look like?  Can you deliberately make your search fail in some way? (If you have trouble, try for example searching for "Tristram" within the volume.)
@@ -62,4 +64,4 @@ If you run into bugs or other difficulties, please let me or Neel know.
 
 ### Acknowledgements
 
-Thanks to Neel Gupta for testing and proofing this assignment for 2019. 
+Thanks to Neel Gupta for testing and proofing this assignment for 2019.

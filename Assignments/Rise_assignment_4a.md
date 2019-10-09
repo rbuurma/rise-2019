@@ -1,6 +1,6 @@
 # Plain-text authoring: underneath the digital text  (Exercise 4b)
 
-Complete if possible by Wednesday, October 11.
+Complete by October 23 2019.
 
 In assignment 4 , we learned about how we move from a eighteenth-century book on a library shelf to a digitized image of that book to a machine-readable text.
 
