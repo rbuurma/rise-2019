@@ -1,7 +1,8 @@
 # Topic Modeling the 1760s (Exercise 7)
 
-+ Check-in on Wednesday, Nov 11, 2015 (try to to have done all of the steps of the assignment including at least one iteration of training topics by then in order to run into bugs, generate questions, etc)
-+ Writeup due to Known before class Wednesday, November 18th, 2015
++ Check-in on Wednesday, Nov 13, 2019 (try to to have done all of the steps of the assignment including at least one iteration of training topics by then in order to run into bugs, generate questions, etc)
++ Writeup due before class Friday, November 15th, 2019
++ Lab Sunday as usual
 + Estimated time: 2 hours
 
 ### What is topic modeling?
@@ -16,7 +17,7 @@ The second output MALLET gives you is a spreadsheet telling you what percentage 
 
 ### Preparing Your Corpus
 
-We will be returning to the 1760s in this assignment, so have a quick think back to *Tristram Shandy*.  Our working corpus is comprised of 41 titles printed during the 1760s, in a total of 61 volumes. A little under half are new editions of novels first published in previous decades, such as *Pamela*. Thus, this corpus gives us a sense of the literary field of the 1760s, and a more fleshed-out (though still partial) context for *Tristram Shandy.*
+We will be returning to the 1760s in this assignment, the decade of *Tristram Shandy* and of the continued reception of novels like *Pamela*.  Our working corpus is comprised of 41 titles printed during the 1760s, in a total of 61 volumes. A little under half are new editions of novels first published in previous decades, such as *Pamela*. Thus, this corpus gives us a sense of the mid-eighteenth-century literary field of the 1760s.
 
 ### Topic Modeling 41 Works of Fiction from the 1760s
 
@@ -44,7 +45,7 @@ For this response, we will focus on looking at and labeling the topics, but you 
 
 Then write just a few paragraphs, thinking about some of the following questions:
 
-Do the topics remind you of anything that arose for us around Tristram Shandy? Can you trace any of the lineaments of TS in this 1760s corpus via your examination of the topics you generated?  Can you connect any of the topics you have labeled to bigger arguments about the novel by Watt, McKeon, Armstrong, Habermas, Anderson, or Barthes?
+Do the topics remind you of anything that arose for us in class when we studied eighteeth-century novels?  Can you connect any of the topics you have labeled to bigger arguments about the novel by Watt, McKeon, Armstrong, Habermas, Anderson, or Barthes?
 
 Also possibly of interest: is there any apparent relation between what Barthes is arguing in “The Reality Effect” and what we are doing when we topic model 1760s novels? Specifically, you may notice that topic modeling’s treatment of documents as “bags of words” and the way we tend to prefer nouns when we apply a stoplist (sometimes - we will discuss the stopword process more in class) almost makes the novel seem like ALL reality effect. Thoughts about this?
 
@@ -62,6 +63,7 @@ Scott Weingart’s 2012 [Topic Modeling for Humanists: A Guided Tour](http://www
 
 ### Acknowledgements
 
-This assignment was produced in collaboration with Nabil Kashyap (Swarthmore Librarian for Digital Initiatives and Scholarship)  and Lindsay Van Tine (Penn-Swarthmore CLIR Fellow).
+This assignment was produced in collaboration with Nabil Kashyap (Swarthmore Librarian for Digital Initiatives and Scholarship)  and Lindsay Van Tine (Penn-Swarthmore CLIR Fellow, 2016).
 
 It draws heavily on Annie Swafford’s [“Topic Modeling assignment”](https://sherlockholmeslondondh.wordpress.com/2015/03/23/topic-modeling-assignment/) for her Digital Tools for the 21st Century: Sherlock Holmes's London class (SUNY New Paltz, Spring 2015).
+
