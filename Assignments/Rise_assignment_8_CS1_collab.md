@@ -1,35 +1,29 @@
 ## Computing Austen’s differences
-### CS21-ENGL35 Fall 2017 collaborative assignment
-### ENGL35 Assignment 8, pairs with CS21 Lab [ADD LAB NUMBER]
+### CS21-ENGL35 Fall 2019 collaborative assignment
+### ENGL35 Assignment 8, pairs with CS21 [Lab 8: DH/searching](https://www.cs.swarthmore.edu/courses/CS21Labs/f17/labs/lab08.html) and [Lab 9: DH/sorting]https://www.cs.swarthmore.edu/courses/CS21Labs/f17/labs/lab09.html)
 #### by Rachel Sagner Buurma and Rich Wicentowski
-
-*revision in progress*
 
 Summary: *This assignment will ask: how specifically are Jane Austen's novels (written and published between approximately 1790 and 1818) different from those of her contemporaries? How different are they from the other eighteenth-century and early-nineteenth-century novels we might read in a class on the history of the novel in English?*
 
-## Some Background
+## Background
 
-In ENGL035: The Rise of the Novel we have been studying the history of the novel in English. We’re interested in the history of the novel for many reasons. For a long time, people have written and read novels for entertainment and for instruction; to learn about people unlike themselves, and to see representations of people like themselves circulate in print; to learn about the world, and to learn new ways of thinking and feeling. In this class, we have been especially interested in how the novel developed both as a reflection of social and psychological life and a model for it. The novel is designed to represent the current state of what it is like to think, feel, and live as an everyday and historically unremarkable person, but it is also a form that opens up new possibilities for how a novel reader might think, feel, and live as an everyday person. Depending on who you were or are, the novel might help you learn how you might fall in love, grow up, be (or become, or refuse to become) a woman (or a man), grow old, or mourn the loss of a child. It might also, of course, depending on who you were, fail to acknowledge you as a person worthy of being addressed by the novel.
+In ENGL035: The Rise of the Novel we have been studying the history of the novel in English. We’re interested in the history of the novel for many reasons. For a long time, people have written and read novels for entertainment and for instruction; to learn about people unlike themselves, and to see representations of people like themselves circulate in print; to learn about the world, and to learn new ways of thinking and feeling. In this class, we have been especially interested in how the novel developed both as a reflection of social and psychological life and a model for it. The novel is designed to represent the current state of what it is like to think, feel, and live as an everyday and historically unremarkable person, but it is also a form that opens up new possibilities for how a novel reader might think, feel, and live as an everyday person. Depending on who you were or are, the novel might help you learn how you might fall in love, grow up, be (or become, or refuse to become) a woman (or a man), grow old, or mourn the loss of a child. It might also, of course, depending on who you were, fail to acknowledge you as a person worthy of being addressed by the novel. Perhaps most importantly, the novel can help you understand (or believe) that you are (or are potentially) a valuable, interesting, unique person - even in the face of overwhelming evidence that you are actually a very ordinary and replaceable person.
 
-Perhaps most importantly, the novel can help you understand (or believe) that you are (or are potentially) a valuable, interesting, unique person - even in the face of overwhelming evidence that you are actually a very ordinary and replaceable person.
-
-As we have discussed in class, any attempt to survey any literary genre across three centuries is sure to run into difficulties, and the novel poses particular challenges. When we read novels for the purpose of discussing them in a classroom, we read them in part as we read when we read for pleasure - from cover to cover, following the plot, identifying (or not) with characters, enjoying the scenery. But we also read them more discontinuously and intensively - skipping around to search for evidence of a claim or dwelling for twenty minutes on a single word (as on that memorable October 25, 2017, when we spent that amount of time discussing the final word of *Evelina*, which is, as you will recall, “Evelina”). This kind of reading takes a long time, novels themselves are long (sometimes VERY long), and the semester and our attention spans are short. Therefore in this class we have only been able to read ten novels published over the span of 242 years (1719-1961). During this timespan, hundreds of thousands of novels were published, so naturally we needed to be very selective.
+As we have discussed in class, any attempt to survey any literary genre across three centuries is sure to run into difficulties, and the novel poses particular challenges. When we read novels for the purpose of discussing them in a classroom, we read them in part as we read when we read for pleasure - from cover to cover, following the plot, identifying (or not) with characters, enjoying the scenery. But we also read them more discontinuously and intensively - skipping around to search for evidence of a claim or dwelling for twenty minutes on a single word (as on that memorable day in October when we spent that amount of time discussing the final word of *Evelina*, which is, as you will recall, “Evelina”). This kind of reading takes a long time, novels themselves are long (sometimes VERY long), and the semester and our attention spans are short. Therefore in this class we have only been able to read ten novels published over the span of 242 years (1719-1961). During this timespan, hundreds of thousands of novels were published, so naturally we needed to be very selective.
 
 But how do we choose? We choose novels for a syllabus like ours - in which we can only read ten novels - not because they are "average" nor because they are wholly "exceptional," but because they are "exemplary." The are in some (controversial) sense the "best," yes, but they are the best "of their kind." They must somehow represent larger groups of novels, so that we can claim to be learning something about "the novel" or "the Anglophone novel" in the class, not just some things about ten random novels.  Yet our choices must also be be worth reading in themselves; we want them to be compelling and important in their own rights. We implicitly claim, therefore, that each novel on our syllabus is both representative *and* distinctive.
-
-
 
 ## Comparison: How?
 
 Accordingly, this assignment will ask: how specifically are Austen's novels (which she wrote and published between approximately 1790 and 1818) different from those of her contemporaries? How different are they from the other eighteenth-century and early-nineteenth-century novels we might read in a class like this one?
 
-There are a few ways we might go about answering this question, and each has its particular strengths and weaknesses. Critics and historians of literature regularly draw such comparisons. One way is to draw on our qualitative experience of the conclusions many critics have come to in their layered readings of novels. For critic Ian Watt, for example, Austen innovates by joining different forms of realism that were previously separate[ADD WATT PHRASES], allowing one novel to be both psychologically realist and yet also true to external life. For critics like D.A. Miller and Frances Ferguson, Austen's narrative style - her impersonal narrator and use of free indirect discourse - is both new and trendsetting. Though it is clear that Austen draws on existing narrative conventions, critics like Miller and Ferguson see her fiction as significantly different from the novels that came before them, while also seeing them exert a strong influence on the novels that came after them.
+There are a few ways we have gone about answering this question over the course of the semester, and each has its particular strengths and weaknesses. One way is to draw on the aggregated conclusions many critics have come to in their own readings of novels. For critic Ian Watt, for example, Austen innovates by joining different forms of realism that were previously separate, allowing one novel to be both psychologically realist and yet also true to external life. For critics like D.A. Miller and Frances Ferguson, Austen's narrative style - her impersonal narrator and use of free indirect discourse - is both new and trendsetting. Though it is clear that Austen draws on existing narrative conventions, critics like Miller and Ferguson see her fiction as significantly different from the novels that came before them, while also seeing them exert a strong influence on the novels that came after them.
 
-Another path is to compare the material forms and circulation histories of novels to see what that might tell us about the difference between one novel and another. When we read *Evelina*,  for example, we tried to get a sense of a wider ecosystem of fiction in which Frances Burney’s novel appeared by browsing through the titles of novel in bibliographies and skimming some digital facsimiles of fictions in the ECCO database in exercise 5[ADD LINK], and by manipulating catalog metadata created by librarians in exercise 6. In those exercises, we looked at a bit of information about smaller groups of novels - eyeballing 80 or 90 titles to learn what we can. In the decade that saw the publication of *The Life and Strange Surprising Adventures of Robinson Crusoe*, for example, how many other novels were published that named themselves “Life” or “Adventures”? How many novels published between 1776 and 1779 had (like the 1778 *Evelina*) a woman's first name as a title?
+Another path is to compare the material forms and circulation histories of novels to see what that might tell us about the difference between one novel and another. When we read *Evelina*,  for example, we tried to get a sense of a wider ecosystem of fiction in which Frances Burney’s novel appeared by browsing through the titles of novel in bibliographies and skimming some digital facsimiles of fictions in the ECCO database in exercise 5, and by manipulating catalog metadata created by librarians in exercise 6. In those exercises, we looked at a bit of information about smaller groups of novels - eyeballing 80 or 90 titles to learn what we can. In the decade that saw the publication of *The Life and Strange Surprising Adventures of Robinson Crusoe*, for example, how many other novels were published that named themselves “Life” or “Adventures”? How many novels published between 1776 and 1779 had (like the 1778 *Evelina*) a woman's first name as a title?
 
 What if we want to be able to compare larger groups of novels, more than we can easily eyeball? And what if we want to compare the contents of these novels, rather than their titles or publication information? To do this, we can try to examine a smaller number of characteristics (or "features") of each novel across a larger group of novels. In this assignment, we will identify a feature that can be easily extracted from each text or group of texts, and then decide how we might go about representing that feature in a way that lets us easily compare texts to one another. Clearly, the kinds of features or textual characteristics we can extract (or generate) from texts will severely limit the kinds of questions we can ask. On the other hand, the very act of having to isolate a machine-identifiable characteristic or group of characteristics in a big set of novels may very well help us think entirely differently about texts and interpretation.
 
-It is important to understand that when we create any representation of a text or group of texts – whether the fairly simple one in this assignment or much more sophisticated models - we are deliberately choosing to create a VERY reductive representation of each text so that we can easily manipulate and compare the representations of a larger number of novels. What we are NOT doing is pretending that this feature in any way stands in for a human reading of the text, or offers any kind of full representation of the text. Rather, are using feature extraction to look closely at and compare one very specific aspect of the text, an aspect that we cannot easily see when we read. Another way to think about what we are doing is not “reduction” of each text to a given feature or set of features, but “transformation” – the creation of a new text that tell us something ABOUT the original texts from which we began. (You may notice, by the way, that this tension between imagining a representation as a reduction as opposed to imagining a representation as a transformation is also a current running through some of the literary-critical treatments of novelistic realism we have been examining.)[ADD REDUCTION/TRANSFORMANTION citations]
+It is important to understand that when we create any representation of a text or group of texts – whether the fairly simple one in this assignment or much more sophisticated models - we are deliberately choosing to create a VERY reductive representation of each text so that we can easily manipulate and compare the representations of a larger number of novels. What we are NOT doing is pretending that this feature in any way stands in for a human reading of the text, or offers any kind of full representation of the text. Rather, are using feature extraction to look closely at and compare one very specific aspect of the text, an aspect that we cannot easily see when we read. Another way to think about what we are doing is not “reduction” of each text to a given feature or set of features, but “transformation” – the creation of a new text that tell us something ABOUT the original texts from which we began. (You may notice, by the way, that this tension between imagining a representation as a reduction as opposed to imagining a representation as a transformation is also a current running through some of the literary-critical treatments of novelistic realism we have been examining.)
 
 ### More Distinctive Words
 
@@ -50,7 +44,7 @@ This is the measure we are using in the program the CS21 students have written f
 
 ### Corpus: to what can we compare Austen?
 
-Comparing Austen's novels and complete works to "everything else" sounds great in theory; how will it work in practice? First, we need to determine what groups of novels we might want to compare to Austen's and whether they exist in machine-readable form.  As we learned in Assignment 4[ADD LINK], even if we have a digital facsimile of a novel, using OCR on it won't necessarily give us a machine-readable text that is good enough for a purpose like this; almost all computational text analysis work requires that we pre-process or "clean" existing machine-readable texts before we can use them. For this assignment, we will use the texts and corpora described below. All of these corpora (except one) are composed of texts that were either transcribed by a person or people, so they are very accurate. In this case, we have removed metadata and other ancillary text that we don't want to see in our results. The programs we use will also include functions that remove or ignore some words; our program, for example, ignores words that appear < 5 times in both texts or corpora that we are comparing.
+Comparing Austen's novels and complete works to "everything else" sounds great in theory; how will it work in practice? First, we need to determine what groups of novels we might want to compare to Austen's and whether they exist in machine-readable form.  As we learned in Assignment 4, even if we have a digital facsimile of a novel, using OCR on it won't necessarily give us a machine-readable text that is good enough for a purpose like this; almost all computational text analysis work requires that we pre-process or "clean" existing machine-readable texts before we can use them. For this assignment, we will use the texts and corpora described below. All of these corpora (except one) are composed of texts that were either transcribed by a person or people, so they are very accurate. In this case, we have removed metadata and other ancillary text that we don't want to see in our results. The programs we use will also include functions that remove or ignore some words; our program, for example, ignores words that appear < 5 times in both texts or corpora that we are comparing.
 
 We are grateful that [Yumi D. Shiroma](http://yumidineenshiroma.org/) contributed her expertise to the creation and assembly of these corpora.
 
@@ -70,17 +64,13 @@ The “canon” collection contains 44 works of eighteenth- and early-nineteenth
 #### Archive
 We have two corpora that stand in for the “archive” or - to use the words of Margaret Cohen - “the great unread” (“Narratology in the Archive of Literature,” 61) - all of those books that were published and (possibly) read at one time but which have not been read much since.
 
-Our first “archive” corpus is CHAWTON,  a collection of 75 novels drawn from the [Chawton House Library’s Novels Online project](ADD LINK). CHAWTON contains little-known novels written (primarily) by women and published during the eighteenth and early nineteenth centuries.
+Our first “archive” corpus is CHAWTON,  a collection of 75 novels drawn from the [Chawton House Library’s Novels Online project](https://chawtonhouse.org/the-library/library-collections/womens-writing-in-english/novels-online/). CHAWTON contains little-known novels written (primarily) by women and published during the eighteenth and early nineteenth centuries.
 
 A alternate model for “archive” is [SINGERMENDENHALL](https://github.com/earlynovels/digital-collection). This corpus contains seventy-five rare works of eighteenth-century fiction drawn from the Singer-Mendenhall collection at the University of Pennsylvania. The SINGERMENDENHALL corpus is different from our others because it was created via OCR of scanned novels; we then processed the resulting (very messy) text by removing "non-words" (any words that appear < 200 times in the Google ngram corpus) and uppercase words. The corpus was selected and curated by Dr. Alice McGrath and Dr. Lindsay Van Tine.
 
 Are either of these corpora a perfect representation of the "real" archive of all the late-eighteenth and early-nineteenth-century fiction that was ever published? Nope! Both CHAWTON and SINGERMENDENHALL are assembled not of "average" early novels, but of rare and outlying texts. But there's really no perfect representation of the "archive", and there is a lot we can learn from this one.
 
-[? NB: add HATHI links tho for a bigger and more rep corpus]
-
 ### How to run the CS21 "more distinctive words" program
-
-SAY MORE - describe the program
 
 We will be running this program - written in the programming language Python - from the command line via your Terminal (on Mac) or PowerShell (on PC). The command line is simply a tool for viewing and interacting with the files and programs on your computer. You have already completed [a tutorial](https://learnpythonthehardway.org/book/appendix-a-cli/introduction.html) teaching you the basics of how to navigate your file structure and run programs from the command line for earlier assignments; you may wish to refresh your memory before moving forward.
 
@@ -154,48 +144,6 @@ In his book Nabokov’s *Favorite Word is Mauve*, data journalist Ben Blatt note
 ![Blatt quote](/Images/BlattAustenQuote.jpg)
 
 Based on only what you see here, what is potentially wrong with Blatt’s example? Might what is wrong with this example be a symptom of what else might go wrong with the computational text analysis of literature when a literary critic is not involved? Explain the basic literary critical concept(s) Blatt fails to take into account here.
-
-### Extra credit 3 (for anyone and everyone) (in progress)
-
-Underwood paper
-
-### Citations and related work (revision in progress)
-
-Eric Simpson, Jane Austen and contemporary prose style
-https://pagesandlights.wordpress.com/2013/01/23/jane-austen-and-contemporary-prose-style/
-
-Eric Simpson, More on Jane Austen and stylistic signatures
-https://pagesandlights.wordpress.com/2013/01/25/more-on-jane-austen-and-stylistic-signatures/
-
-Ted Underwood, Identifying diction that characterizes an author or genre: why Dunning’s may not be the best method.
-https://tedunderwood.com/2011/11/09/identifying-the-terms-that-characterize-an-author-or-genre-why-dunnings-may-not-be-the-best-method/
-
-Ben Schmidt,
-
-See also:
-http://sappingattention.blogspot.com/2011/11/compare-and-contrast.html
-http://sappingattention.blogspot.com/2011/10/dunning-statistics-on-authors.html
-
-Sarah Allison, Reductive Reading:
-p 10-11, and footnotes 15 and 16.
-
-David Hoover,
-
-Buurows,
-
-Add Austen computation book
-
-Reread Richard Jean So model article, perhaps add
-
-Catherine Gallagher
-
-Frances Ferguson
-
-Ian Watt
-
-Stephen Ramsay
-
-add Canon/Archive?
 
 
 # License
